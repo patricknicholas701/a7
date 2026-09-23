@@ -1,0 +1,207 @@
+{
+  "domain": "scienceinquiry",
+  "niche": "Empirical Scientific Inquiry & Academic Pedagogy",
+  "design_concept": "Neo-Classicist Guild & Roman Columnar",
+  "archetype_id": "neoclassic_guild",
+  "pages": [
+    "index.html",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "scienceinquiry_asset_1.jpg",
+      "size_kb": 118.96,
+      "md5": "6b6caf8af74e223fe1f381c7a5d810ea",
+      "description": "a design thinking workshop",
+      "page": "index.html",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "scienceinquiry_asset_2.jpg",
+      "size_kb": 114.08,
+      "md5": "0e73418c00890835a3529213516e24c4",
+      "description": "design sprint workshop",
+      "page": "index.html",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "scienceinquiry_asset_4.jpg",
+      "size_kb": 160.56,
+      "md5": "1326af20ffacf2df98767673752754be",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "scienceinquiry_asset_5.jpg",
+      "size_kb": 172.76,
+      "md5": "52a250b461c701e29c848c0e6b4a6c30",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "scienceinquiry_asset_6.jpg",
+      "size_kb": 173.9,
+      "md5": "b3b23229c651e9b1df522f7001b805f3",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "scienceinquiry_asset_7.jpg",
+      "size_kb": 190.88,
+      "md5": "97efa1bcada54c53df9369d0dd49c224",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "scienceinquiry_asset_8.jpg",
+      "size_kb": 162.45,
+      "md5": "a09f89b52119424dec60ab9b50f90023",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "scienceinquiry_asset_9.jpg",
+      "size_kb": 100.07,
+      "md5": "349f6f11298b128a4e58c338b128bcb6",
+      "description": "design thinking in group session",
+      "page": "index.html",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "scienceinquiry_asset_10.jpg",
+      "size_kb": 171.94,
+      "md5": "0cf97a1eab16df356694b833bfeaec03",
+      "description": "design thinking in group session",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "scienceinquiry_asset_12.jpg",
+      "size_kb": 65.37,
+      "md5": "8deb46bd2a6fa145229a9b151036dae2",
+      "description": "design thinking workshop wmde",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "scienceinquiry_asset_13.jpg",
+      "size_kb": 166.1,
+      "md5": "8e00932b9c6d0f5752f5daaf5ce71fd6",
+      "description": "design thinking workshop wmde 1",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "scienceinquiry_asset_14.jpg",
+      "size_kb": 161.97,
+      "md5": "bbaee5247ac7f5d01142f59b2b1b75c8",
+      "description": "design thinking workshop wmde 2",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "scienceinquiry_asset_15.jpg",
+      "size_kb": 140.33,
+      "md5": "6d1dda94bea9cc903e4fcd2f8a747959",
+      "description": "design thinking workshop wmde grupp",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "scienceinquiry_asset_16.jpg",
+      "size_kb": 151.57,
+      "md5": "4ceb06a70e1e77a49b8f403c14291dfc",
+      "description": "design thinking workshop wmde grupp",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "scienceinquiry_asset_17.jpg",
+      "size_kb": 191.21,
+      "md5": "b2965f098e06f13b76b1302859e2ef8e",
+      "description": "design thinking workshop wmde proto",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "scienceinquiry_asset_18.jpg",
+      "size_kb": 192.77,
+      "md5": "0b76ec9294ed119a8e717fec28ce2073",
+      "description": "design thinking workshop wmde proto",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "scienceinquiry_asset_19.jpg",
+      "size_kb": 114.71,
+      "md5": "c65e796528a4e37f0e88c17cbf1cf54c",
+      "description": "design thinking workshop 1 33952",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "scienceinquiry_asset_20.jpg",
+      "size_kb": 163.21,
+      "md5": "bf7d142a5aa49f0c025eba8bc2919136",
+      "description": "design thinking workshop 10 3324",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "scienceinquiry_asset_21.jpg",
+      "size_kb": 156.11,
+      "md5": "1b9c36e66916cb0fba3b545c9349321d",
+      "description": "design thinking workshop 11 3392",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "scienceinquiry_asset_23.jpg",
+      "size_kb": 159.07,
+      "md5": "d4e1fa1350e69dd0424ea7fedab3a234",
+      "description": "design thinking workshop 13 3392",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://scienceinquiry.com/sitemap.xml",
+    "robots": "https://scienceinquiry.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
